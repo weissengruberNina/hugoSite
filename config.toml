@@ -12,10 +12,10 @@ theme = "leoTheme"
   [[menu.main]]
     name = "Team"
     pre = "list"
-    url = "/team/"
+    url = "/hugoSite/team/"
     weight = 2
   [[menu.main]]
     name = "News"
     pre = "tag"
-    url = "/news/"
+    url = "/hugoSite/news/"
     weight = 3
