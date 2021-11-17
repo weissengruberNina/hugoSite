@@ -6,7 +6,6 @@ theme = "leoTheme"
 [menu]
   [[menu.main]]
     name = "Leonie"
-    pre = "leonie"
     url = "/"
     weight = 1
   [[menu.main]]
