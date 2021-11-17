@@ -4,9 +4,10 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
 
 jobs:
-  build: 
+  build:
     name: Build ⚙
     runs-on: ubuntu-latest
     steps:
