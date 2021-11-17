@@ -11,11 +11,9 @@ theme = "leoTheme"
     weight = 1
   [[menu.main]]
     name = "Team"
-    pre = "list"
     url = "/team/"
     weight = 2
   [[menu.main]]
     name = "News"
-    pre = "tag"
     url = "/news/"
     weight = 3
