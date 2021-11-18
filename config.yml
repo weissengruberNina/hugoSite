@@ -1,0 +1,16 @@
+baseURL: https://weissengrubernina.github.io/hugoSite/
+languageCode: de-at
+title: Leonie
+theme: leoTheme
+
+menu:
+  main:
+    - name: leonie
+      URL: /
+      weight: 90
+    - name: Team
+      URL: /team/
+      weight: 100
+    - name: News
+      URL: /news/
+      weight: 110
