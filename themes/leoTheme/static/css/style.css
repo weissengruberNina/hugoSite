@@ -84,10 +84,10 @@ div{
 #nav{
     margin-top: 20px;
     margin-bottom: 20px;
+    font-size: 130%;
 }
 
 .nav-link{
-    font-size: 130%;
     margin-left: 10px;
     margin-right: 10px;
 }
