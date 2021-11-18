@@ -5,7 +5,7 @@ theme: leoTheme
 
 menu:
   main:
-    - name: leonie
+    - name: Leonie
       URL: /
       weight: 90
     - name: Team
