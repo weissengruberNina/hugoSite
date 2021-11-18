@@ -1,7 +1,6 @@
 ---
 title: "Scholl Sebastian"
 date: 2021-11-16T10:16:02+01:00
-draft: true
 ---
 
 ![Scholl Sebastian](./../../../images/scholl.jpg)

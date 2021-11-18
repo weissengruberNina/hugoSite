@@ -1,7 +1,6 @@
 ---
 title: "Starka Lukas"
 date: 2021-11-16T10:16:02+01:00
-draft: true
 ---
 
 ![Starka Lukas](./../../../images/starka.jpg)

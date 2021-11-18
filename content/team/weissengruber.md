@@ -1,7 +1,6 @@
 ---
 title: "Weissengruber Nina"
 date: 2021-11-16T10:16:02+01:00
-draft: true
 ---
 
 ![Weissengruber Nina](./../../../images/weissengruber.jpg)
